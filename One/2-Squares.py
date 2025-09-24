@@ -3,7 +3,7 @@ import turtle
 screen = turtle.Screen()
 # make the initial window 800x800
 screen.setup(800, 800)
-
+# turtle.speed(0)
 '''
 turtle.left(x) turns turtle left by x degrees
 turtle.right(x) turns turtle right by x degrees

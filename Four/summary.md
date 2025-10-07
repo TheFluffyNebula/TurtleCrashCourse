@@ -5,6 +5,7 @@ turtle.tracer(x)
   * most commonly used
 * x = 1: default
 * x > 1: on every nth regular screen, update is performed
+turtle.update()
 
 ## Keyboard Input
 
